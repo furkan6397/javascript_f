@@ -1,2 +1,1 @@
-# javascript_f
-code repo for js
+E-Commerce Website
